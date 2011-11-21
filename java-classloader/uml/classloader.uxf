@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><umlet_diagram><help_text>// Uncomment the following line to change the fontsize:
+// fontsize=14
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////
+// Welcome to UMLet!
+//
+// Double-click on UML elements to add them to the diagram, or to copy them
+// Edit elements by modifying the text in this panel
+// Hold Ctrl to select multiple elements
+// Use Ctrl+mouse to select via lasso
+//
+// Use ± or Ctrl+mouse wheel to zoom
+// Drag a whole relation at its central square icon
+//
+// Press Ctrl+C to copy the whole diagram to the system clipboard (then just paste it to, eg, Word)
+// Edit the files in the "palettes" directory to create your own element palettes
+//
+// Select "Custom Elements &gt; New..." to create new element types
+//////////////////////////////////////////////////////////////////////////////////////////////
+
+
+// This text will be stored with each diagram;  use it for notes.</help_text><zoom_level>19</zoom_level><element><type>com.umlet.element.base.Class</type><coordinates><x>247</x><y>76</y><w>304</w><h>57</h></coordinates><panel_attributes>BootStrapClassLoader</panel_attributes><additional_attributes/></element><element><type>com.umlet.element.base.Class</type><coordinates><x>247</x><y>209</y><w>304</w><h>57</h></coordinates><panel_attributes>ExtClassLoader</panel_attributes><additional_attributes/></element><element><type>com.umlet.element.base.Class</type><coordinates><x>247</x><y>342</y><w>304</w><h>57</h></coordinates><panel_attributes>AppClassLoader</panel_attributes><additional_attributes/></element><element><type>com.umlet.element.base.Class</type><coordinates><x>418</x><y>456</y><w>190</w><h>57</h></coordinates><panel_attributes>CustomCL2</panel_attributes><additional_attributes/></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>342</x><y>76</y><w>94</w><h>170</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>57;57;57;133</additional_attributes></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>342</x><y>209</y><w>94</w><h>170</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>57;57;57;133</additional_attributes></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>342</x><y>342</y><w>151</w><h>151</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>57;57;114;114</additional_attributes></element><element><type>com.umlet.element.base.Note</type><coordinates><x>608</x><y>76</y><w>228</w><h>95</h></coordinates><panel_attributes>jre/lib
+-Xbootclasspath
+bg=blue</panel_attributes><additional_attributes/></element><element><type>com.umlet.element.base.Note</type><coordinates><x>608</x><y>209</y><w>228</w><h>95</h></coordinates><panel_attributes> jre/lib/ext
+-Djava.ext.dirs
+bg=blue</panel_attributes><additional_attributes/></element><element><type>com.umlet.element.base.Note</type><coordinates><x>608</x><y>342</y><w>228</w><h>95</h></coordinates><panel_attributes>CLASSPATH
+-classpath
+bg=blue</panel_attributes><additional_attributes/></element><element><type>com.umlet.element.base.Note</type><coordinates><x>703</x><y>494</y><w>209</w><h>57</h></coordinates><panel_attributes>我的CL我做主
+bg=blue</panel_attributes><additional_attributes/></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>494</x><y>57</y><w>151</w><h>94</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>57;57;114;57</additional_attributes></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>494</x><y>190</y><w>151</w><h>94</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>57;57;114;57</additional_attributes></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>494</x><y>323</y><w>151</w><h>94</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>57;57;114;57</additional_attributes></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>551</x><y>437</y><w>189</w><h>113</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>57;57;152;76</additional_attributes></element><element><type>com.umlet.element.base.Class</type><coordinates><x>190</x><y>456</y><w>190</w><h>57</h></coordinates><panel_attributes>CustomCL1</panel_attributes><additional_attributes/></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>285</x><y>342</y><w>151</w><h>151</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>114;57;57;114</additional_attributes></element><element><type>com.umlet.element.base.Class</type><coordinates><x>304</x><y>570</y><w>190</w><h>57</h></coordinates><panel_attributes>CustomCLA</panel_attributes><additional_attributes/></element><element><type>com.umlet.element.base.Class</type><coordinates><x>532</x><y>570</y><w>190</w><h>57</h></coordinates><panel_attributes>CustomCLB</panel_attributes><additional_attributes/></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>380</x><y>456</y><w>170</w><h>151</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>133;57;57;114</additional_attributes></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>456</x><y>456</y><w>151</w><h>151</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>57;57;114;114</additional_attributes></element></umlet_diagram>
